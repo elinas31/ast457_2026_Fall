@@ -13,7 +13,7 @@ It has the same content as [457_FDS_Syllabus.pdf](457_FDS_Syllabus.pdf); the ver
 | Lecture | Astronomy 134, Tue & Thur, 12:30–13:50 |
 | Office hours | Astronomy 129, by appointment |
 | Course repo | <https://github.com/gnarayan/ast457_2026_Fall> |
-| TA | Abha Vishwakarma (office hours Wed. 11:00–noon or by appointment, over Zoom; remote Sep. 12–20) |
+| TA | Abha Vishwakarma (office hours Fri. 1:00–2:00 pm or by appointment, over Zoom; Wed. 11:00–noon until Oct. 2) |
 
 ## Course description and learning goals
 

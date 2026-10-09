@@ -657,3 +657,68 @@ the verified URL is the tarball and the filename inside it is named below.
 - **Source:** drawn for this course with matplotlib (instructor script), 2026-09-29. Own work.
 - **License:** same as the course repository.
 - **Use:** posted with the Sep 29 review test's truth after the Wed Sep 30 deadline: the reference PGM for the five-parameter generative fit (Q3/Q4).
+
+## speagle2020_fig2_top_bottom_crop.png
+- **Title:** Figure 2, "An example highlighting the behavior of a Static Nested Sampling run in dynesty": top (live points) and bottom (evidence) panels only, cropped and stacked, 1100 px wide, from the author's `static.png`
+- **Source page:** https://arxiv.org/abs/1904.02180
+- **File downloaded:** https://arxiv.org/e-print/1904.02180 (author's LaTeX source tarball), 2026-10-06
+- **Credit:** Speagle, J. S. (2020), "dynesty: a dynamic nested sampling package for estimating Bayesian posteriors and evidences," MNRAS, 493, 3132 (arXiv:1904.02180), Fig. 2
+- **License:** arXiv non-exclusive distribution license; single cited figure in a non-commercial university course - fair use per course policy
+- **Shows:** one nested-sampling run against the prior volume X: live points, the rising likelihood threshold, where the posterior mass sits, and the evidence converging with its error band (Day 13)
+
+## trotta2008_fig3_bayes_factor_plane.png
+- **Title:** Figure 3, "Illustration of Bayesian model comparison for two nested models, where the more complex model has one extra parameter" (rendered from the author's `Eplan_v3.ps` at 300 dpi, downscaled to 900 px)
+- **Source page:** https://arxiv.org/abs/0803.4089
+- **File downloaded:** https://arxiv.org/e-print/0803.4089, 2026-10-06
+- **Credit:** Trotta, R. (2008), "Bayes in the sky: Bayesian inference and model selection in cosmology," Contemporary Physics, 49, 71 (arXiv:0803.4089), Fig. 3
+- **License:** arXiv non-exclusive distribution license; single cited figure, fair use per course policy
+- **Shows:** the outcome of a nested comparison as a function of information content (prior width over posterior width) and detection significance, with |ln B01| = 1, 2.5, 5 contours (Day 13, the n_s example)
+
+## poon2025_fig6_obliquity_bayes_factor.png
+- **Title:** Figure 6, posterior on the concentration parameter kappa with its prior dashed (left) and Bayes factor BF(0,5) for subsets of four super-Jupiter systems (right) (downscaled to 1800 px wide)
+- **Source page:** https://arxiv.org/abs/2511.04091
+- **File downloaded:** https://arxiv.org/e-print/2511.04091, 2026-10-06
+- **Credit:** Poon, M., Bryan, M. L., Rein, H., Dong, J., Speagle, J. S., & Pham, D. (2025), "Early evidence for isotropic planetary obliquities in young super-Jupiter systems," ApJL (accepted; doi:10.3847/2041-8213/ae1f0e; arXiv:2511.04091), Fig. 6
+- **License:** arXiv non-exclusive distribution license; single cited figure, fair use per course policy
+- **Shows:** a Bayes factor of 15 from four systems, built as a product of per-system factors (Day 13 aside)
+
+## faculty_jiayin_dong.jpg
+- **Title:** portrait of Jiayin Dong, Assistant Professor of Astronomy, University of Illinois (cropped and downscaled to 600 px from the 3000×2000 original)
+- **Source page:** https://astro.illinois.edu/news/2025-08-26/coming-home-jiayin-dong-joins-illinois-astronomy-faculty
+- **File downloaded:** https://astro.illinois.edu/sites/default/files/2025-08/Dong_Jiayin.jpg, 2026-10-06
+- **Credit:** Illinois Department of Astronomy (news story by Jake Keister, Aug 26, 2025)
+- **License:** university news photo of a UIUC faculty member, used with credit in a UIUC course (same basis as the colloquium speaker photos)
+- **Use:** Day 13 Poon et al. aside: the UIUC co-author (paper affiliation: Department of Astronomy, University of Illinois)
+
+## speaker_mathilde_van_cuyck.jpg
+- **Title:** directory photo of Dr. Mathilde Van Cuyck (Postdoctoral Research Associate, Department of Astronomy, University of Illinois Urbana-Champaign), for the Day 14 "come to Tuesday's colloquium" slide (500×375 JPEG). Downloaded 2026-10-06.
+- **Source page:** https://astro.illinois.edu/directory/profile/mvancuyc (her own Illinois Astronomy directory profile; image alt text "Mathilde Van Cuyck")
+- **File downloaded:** https://astro.illinois.edu/sites/default/files/styles/directory_profile/public/profile-photo/Mathilde.jpeg.jpg?itok=ubbko9Go (largest public version)
+- **Credit:** Illinois Astronomy directory (no photographer credit line given)
+- **License / basis:** no explicit license on the page. Institutional directory photo used to advertise the person's own talk (UIUC Astronomy colloquium, Tue Oct 13 2026, "Mapping Cosmic Star Formation in 3D with [CII] Line-Intensity Mapping", per https://astro.illinois.edu/news-events/astrophysics-colloquium and calendars.illinois.edu event 33564482) in a non-commercial university lecture. Not an open-license asset: exclude or replace if the repo goes public under an open license.
+
+## dong2022_dsfp_hmc_bowl.png
+- **Title:** 3-D surface of −log posterior over (m, b) with an HMC particle's dotted path (cropped: slide title and bullets removed)
+- **Source:** Jiayin Dong, "MCMC" lecture, LSSTC Data Science Fellowship Program Session 16, Day 2 (Sept 2022), p. 18. Local copy: `LSSTC-DSFP-Sessions/Sessions/Session16/Day2/MCMC.pdf`
+- **Credit:** J. Dong, LSST-DA Data Science Fellowship Program, Session 16 (2022)
+- **License / basis:** DSFP teaching material in the public LSSTC-DSFP-Sessions repository; the author is Illinois Astronomy faculty. Used with credit in a non-commercial course. [Repo license not checked.]
+- **Use:** Day 14 "Hamiltonian Monte Carlo" slide
+
+## neal2011_fig6_rwm_vs_hmc_100d.png
+- **Title:** Neal (2011) Fig. 6: one coordinate of a 100-D Gaussian, random-walk Metropolis vs HMC (L = 150) over 1000 iterations (caption cropped)
+- **Source:** R. M. Neal, "MCMC using Hamiltonian dynamics", in *Handbook of Markov Chain Monte Carlo* (2011), arXiv:1206.1901. Extracted from GN's ASTR596 S23 `week6.pdf` p. 23, where it was already used.
+- **Credit:** Neal 2011, Fig. 6
+- **License / basis:** book chapter (Chapman & Hall/CRC). Classroom use with credit; not an open license. Exclude if the repo goes public under an open license.
+- **Use:** Day 14 "HMC vs. Metropolis" takeaway
+
+## hoffman2014_fig2_nuts_trajectory.png
+- **Title:** Hoffman & Gelman (2014) Fig. 2: one NUTS trajectory, with the stopping (U-turn) arrows
+- **Source:** arXiv:1111.4246 source file `nuts_stopping3.pdf`, rendered at 150 dpi and cropped. Published as JMLR 15, 1593 (2014).
+- **Credit:** Hoffman & Gelman 2014, JMLR 15, 1593, Fig. 2
+- **License / basis:** arXiv preprint figure (arXiv non-exclusive license); used with credit in a non-commercial course. [JMLR license terms not checked.]
+- **Use:** Day 14 "HMC with PyMC" slide
+
+## day14_leapfrog_vs_euler.gif, day14_hmc_vs_metropolis.gif
+- **Title:** course-made animations for Day 14: leapfrog vs Euler on a 1-D Gaussian bowl (30 steps, ε = 0.3); HMC (L = 10) vs random-walk Metropolis (10 steps per iteration) on a correlation-0.95 2-D Gaussian, 20 iterations
+- **Source:** generated by the skip cells in `lecture/07/day14_lecture.ipynb` (`make_leapfrog_gif`, `make_hmc_gif`; rebuilt when missing or when RECOMPUTE = True)
+- **License:** course material
